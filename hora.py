@@ -31,8 +31,8 @@ def first_step():
     print("\033[1;35m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
     print("\033[1;32m NO WHATS APP CHANNEL GUYS \033[0m\n")
     print("\033[1;32m LET'S EVERY ONE CLONE GUYS\033[0m\n")
-    print("\033[1;32m             🔥 REMON HERO 🔥               ")
-    print("\033[1;32m                  THE CLONER                \033[0m\n")
+    print("\033[1;32m      🔥 REMON HERO 🔥               ")
+    print("\033[1;32m         THE CLONER         \033[0m\n")
 
    # Yo direct WhatsApp groups open hunxa
 
