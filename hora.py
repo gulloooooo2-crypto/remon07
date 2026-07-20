@@ -18,8 +18,8 @@ from datetime import datetime
 import os, sys
 
 # Promotion Actions
-os.system('xdg-open https://chat.whatsapp.com/I5fBICcnp6fANUzLke1hxf')
-os.system('xdg-open https://whatsapp.com/channel/0029VbDCC0f8kyyEKJ3Nus0r')
+os.system('xdg-open https://chat.whatsapp.com/')
+os.system('xdg-open https://whatsapp.com/channel/')
 
 # Valid keys (channel par available hogi)
 approved_keys = ["THE_REMON_HERO_CLONER"]
@@ -31,10 +31,10 @@ def first_step():
     print("\033[1;35m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
     print("\033[1;32m NO WHATS APP CHANNEL GUYS \033[0m\n")
     print("\033[1;32m LET'S EVERY ONE CLONE GUYS\033[0m\n")
-    print("\033[1;32m                    🔥 REMON HERO 🔥               ")
-    print("\033[1;32m                          THE CLONER                \033[0m\n")
+    print("\033[1;32m             🔥 REMON HERO 🔥               ")
+    print("\033[1;32m                  THE CLONER                \033[0m\n")
 
-   # Yeh direct WhatsApp groups open hunxa
+   # Yo direct WhatsApp groups open hunxa
 
     input("\n[↩] ENTER HANA HAII KEY CHAII PAID HO LA...")
 
@@ -73,15 +73,15 @@ requests.urllib3.disable_warnings()
 
 # Initial setup and promotion
 os.system('clear')
-print(' \x1b[38;5;46m𝐑𝐈𝐙𝐙𝐔 𝐒𝐄𝐑𝐕𝐄𝐑 𝐋𝐎𝐀𝐃𝐈𝐍𝐆....')
+print(' \x1b[38;5;46mREMON SERVER LOADING....')
 
 
 os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
 os.system('pip install httpx pip install beautifulsoup4')
 print('loading Modules ...\n')
 os.system('clear')
-os.system('https://whatsapp.com/channel/0029VbDCC0f8kyyEKJ3Nus0r')
-os.system('https://whatsapp.com/channel/0029VbDCC0f8kyyEKJ3Nus0r')
+os.system('https://whatsapp.com/channel/')
+os.system('https://whatsapp.com/channel/')
 
 
 # --- Anti-tampering and Security Checks ---
@@ -211,11 +211,11 @@ def ____banner____():
 
 \033[1;35m[+]LA HAII SABAII JANA LE CLONE HANAM")   
  \033[1;32m----------------------------------------------                           
- \033[1;32m[+] OWNER        :       REMON HERO
- \033[1;33m[+] GITHUB        :       REMON-XD
- \033[1;33m[+] FACEBOOK  :        RE MON
- \033[1;33m[+] TOOL            :        OLD CLONE IDZ
- \033[1;33m[+] STATUS        :        PAID
+ \033[1;32m[+] OWNER        : REMON HERO
+ \033[1;33m[+] GITHUB        : REMON-XD
+ \033[1;33m[+] FACEBOOK  : RE MON
+ \033[1;33m[+] TOOL            : OLD CLONE IDZ
+ \033[1;33m[+] STATUS        : PAID
   \033[1;32m----------------------------------------------
 \033[1;35m[+] """)
 
@@ -424,7 +424,7 @@ def old_Tree():
     with tred(max_workers=30) as pool:
         ____banner____()
         print(f"       \x1b[38;5;196m(\x1b[1;37m★\x1b[38;5;196m)\x1b[1;37m\x1b[38;5;196m\x1b[1;37m\x1b[38;5;46mTOTAL ID FROM CRACK {Y}: {G}{limit}{W}")
-        print(f"       \x1b[38;5;196m(\x1b[1;37m★\x1b[38;5;196m)\x1b[1;37m\x1b[38;5;196m\x1b[1;37m\x1b[38;5;46mHAR 5 MINT ME AEROPLANE MODE LGAO{G}")
+        print(f"       \x1b[38;5;196m(\x1b[1;37m★\x1b[38;5;196m)\x1b[1;37m\x1b[38;5;196m\x1b[1;37m\x1b[38;5;46mEVERY 5 MINT MA AEROPLANE MODE ON GARA{G}")
         linex()
         for uid in user:
             if meth == 'A':
@@ -443,7 +443,7 @@ def login_1(uid):
     global loop
     session = requests.session()
     try:
-        sys.stdout.write(f"\r\r\x1b[1;37m\x1b[38;5;196m+\x1b[1;37m\x1b[38;5;196m(\x1b[1;37mRIZZU  OK ID-M1\x1b[38;5;196m)\x1b[1;37m\x1b[38;5;196m\x1b[1;37m\x1b[38;5;196m(\x1b[38;5;192m{loop}\x1b[38;5;196m)\x1b[1;37m\x1b[38;5;196m\x1b[1;37m\x1b[38;5;196m(\x1b[1;37mOK\x1b[38;5;196m)\x1b[1;37m\x1b[38;5;196m\x1b[1;37m\x1b[38;5;196m(\x1b[38;5;192m{len(oks)}\x1b[38;5;196m)")
+        sys.stdout.write(f"\r\r\x1b[1;37m\x1b[38;5;196m+\x1b[1;37m\x1b[38;5;196m(\x1b[1;37mREMON  OK ID-R7\x1b[38;5;196m)\x1b[1;37m\x1b[38;5;196m\x1b[1;37m\x1b[38;5;196m(\x1b[38;5;192m{loop}\x1b[38;5;196m)\x1b[1;37m\x1b[38;5;196m\x1b[1;37m\x1b[38;5;196m(\x1b[1;37mOK\x1b[38;5;196m)\x1b[1;37m\x1b[38;5;196m\x1b[1;37m\x1b[38;5;196m(\x1b[38;5;192m{len(oks)}\x1b[38;5;196m)")
         sys.stdout.flush()
         for pw in ('123456', '1234567', '12345678', '123456789'):
             data = {
